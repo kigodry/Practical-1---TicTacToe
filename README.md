@@ -1,1 +1,1 @@
-# Practical-1---TicTacToe
+# Practical-1-TicTacToe
